@@ -1,15 +1,6 @@
 <div align="center">
 
-​```
-██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗██╗  ██╗
-██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║╚██╗██╔╝
-██║  ██║███████║██████╔╝██║   ██║██║   ██║ ╚███╔╝ 
-██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝ ██╔██╗ 
-██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝ ██╔╝ ██╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝
-​```
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=CS+Student+building+cool+stuff;Full+Stack+%7C+AI%2FML+%7C+Web+Dev;JavaScript+%C2%B7+TypeScript+%C2%B7+React;Shipping+things+that+don't+exist+yet;The+future+is+written+in+code)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+dhruvXdevv;CS+Student+building+cool+stuff;Full+Stack+%7C+AI%2FML+%7C+Web+Dev;Shipping+things+that+don't+exist+yet;The+future+is+written+in+code)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhruvXdevv&label=visitors&color=00eaff&style=flat)
 
@@ -92,10 +83,16 @@ open_to   : collabs · open source · internships · cool ideas
 ---
 
 ## `// CORE.EXE`
+
+```txt
 Learn        →  understand it, don't just copy it
+
 Build        →  ship early, iterate fast
+
 Stay curious →  the best devs never stop asking why
+
 Repeat       →  consistency is the only cheat code
+```
 
 ---
 
