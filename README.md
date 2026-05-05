@@ -1,33 +1,42 @@
 <div align="center">
+
+​```
 ██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗██╗  ██╗
 ██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║╚██╗██╔╝
-██║  ██║███████║██████╔╝██║   ██║██║   ██║ ╚███╔╝
-██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝ ██╔██╗
+██║  ██║███████║██████╔╝██║   ██║██║   ██║ ╚███╔╝ 
+██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝ ██╔██╗ 
 ██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝ ██╔╝ ██╗
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝
+​```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=CS+Student+building+cool+stuff;Full+Stack+%7C+AI%2FML+%7C+Web+Dev;JavaScript+%C2%B7+TypeScript+%C2%B7+React;Always+learning%2C+always+shipping;The+future+is+built+in+code)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=CS+Student+building+cool+stuff;Full+Stack+%7C+AI%2FML+%7C+Web+Dev;JavaScript+%C2%B7+TypeScript+%C2%B7+React;Shipping+things+that+don't+exist+yet;The+future+is+written+in+code)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhruvXdevv&label=Profile%20Views&color=00eaff&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=dhruvXdevv&label=visitors&color=00eaff&style=flat)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `// SYSTEM BOOT`
 
-- 💻 CS Student passionate about building real things with code
-- ⚛️ Working across **Full Stack, AI/ML and Backend systems**
-- 🤖 Exploring **OpenAI APIs, HuggingFace models & intelligent apps**
-- 🚀 Always shipping — learning by doing, not just reading
-- 🌍 Interested in **startups, developer tools & the future of AI**
-- 🏋️ Strong believer in discipline — **consistent effort compounds**
+> Not just learning to code — building things that **actually work.**
+
+```yaml
+status    : CS Student · actively building
+stack     : JS · TS · Java · SQL · HTML · CSS
+ai_tools  : HuggingFace · OpenAI API · Scikit-learn · Pandas · NumPy
+web       : React · Next.js · Node.js · FastAPI
+databases : PostgreSQL · MongoDB
+obsession : shipping > perfecting
+open_to   : collabs · open source · internships · cool ideas
+```
 
 ---
 
-## ⚡ Tech Stack
+## `// LOADED MODULES`
 
-### Languages
+**Languages**
+
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Java](https://skillicons.dev/icons?i=java)
@@ -35,7 +44,8 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### AI / ML
+**AI / ML**
+
 ![Python](https://skillicons.dev/icons?i=python)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-020c16?style=for-the-badge&logo=huggingface&logoColor=fbbf24)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-020c16?style=for-the-badge&logo=openai&logoColor=4ade80)
@@ -43,36 +53,29 @@
 ![Pandas](https://img.shields.io/badge/Pandas-020c16?style=for-the-badge&logo=pandas&logoColor=00EAFF)
 ![NumPy](https://img.shields.io/badge/NumPy-020c16?style=for-the-badge&logo=numpy&logoColor=4a9eff)
 
-### Frontend
+**Web & Backend**
+
 ![React](https://skillicons.dev/icons?i=react)
 ![NextJS](https://skillicons.dev/icons?i=next)
-
-### Backend & Databases
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![FastAPI](https://img.shields.io/badge/FastAPI-020c16?style=for-the-badge&logo=fastapi&logoColor=4ade80)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-
-### Tools
-![Git](https://skillicons.dev/icons?i=git)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Linux](https://skillicons.dev/icons?i=linux)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ---
 
-## 🔥 Current Focus
+## `// CURRENT MISSION`
 
 ```txt
-- Building Full Stack web applications
-- Integrating AI/ML into real products
-- Exploring LLMs and OpenAI APIs
-- Strengthening JavaScript & TypeScript internals
-- Contributing to open source
+▶  Building full stack apps that solve real problems
+▶  Integrating AI into web products (not just for the hype)
+▶  Getting better at JS/TS internals every single day
+▶  Contributing to open source when I can
 ```
 
 ---
 
-## 📊 GitHub Stats
+## `// STATS HUD`
 
 <div align="center">
 
@@ -88,42 +91,16 @@
 
 ---
 
-## 🚀 Things I Love Building
-
-```txt
-Full Stack Web Applications
-AI-Powered Tools & Products
-Backend APIs & Systems
-Developer Utilities
-Projects that actually solve problems
-```
-
----
-
-## 🧩 Philosophy
-
-```txt
-Learn deeply.
-Build relentlessly.
-Stay consistent.
-Ship it.
-```
-
----
-
-## 🤝 Let's Connect
-
-If you're into:
-- building cool products from scratch
-- exploring AI engineering & APIs
-- collaborating on open source or side projects
-
-we should probably talk.
+## `// CORE.EXE`
+Learn        →  understand it, don't just copy it
+Build        →  ship early, iterate fast
+Stay curious →  the best devs never stop asking why
+Repeat       →  consistency is the only cheat code
 
 ---
 
 <div align="center">
 
-⭐ *Follow along as I learn, build and grow in public.*
+*⭐ Follow the journey. It's just getting started.*
 
 </div>
